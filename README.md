@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnold.
 - 👀 I’m interested in programmig and databases.
-- 🌱 I’m currently learning django web framework,data analytics
+- 🌱 I’m currently learning django web framework,reactjs and data analytics with powerbi.
 - 💞️ I’m looking to collaborate on any software,web,database,application development.
 - 📫 How to reach me turiagaba@gmail.com
 
