@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnold.
 - 👀 I’m interested in Data Analysis and Data science.
-- 🌱 I’m ethusiastic about AI AND Machine Learning, data analytics with powerbi and python.
+- 🌱 I’m ethusiastic about AI and Machine Learning, data analytics with powerbi and python.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me turiagaba@gmail.com
 
